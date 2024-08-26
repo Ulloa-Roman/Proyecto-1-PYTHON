@@ -1,1 +1,0 @@
-En este proyecto emplee el uso de condicionales para crear una calculadora de pagos, la cual pide datos para realizar los calculos correspondientes y asi saber cuanto pagarle, en el hipotetico caso, a los empleados de una organizacion o empresa.
